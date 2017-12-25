@@ -149,7 +149,7 @@ function computeConvertArgs(opts) {
 
   if (opts.text) {
     args.push(
-      '-gravity', 'South',
+      '-gravity', 'NorthWest',
       '-fill', 'white',
       '-stroke', 'black',
       '-strokewidth', '1',
