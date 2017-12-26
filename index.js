@@ -154,6 +154,7 @@ function computeConvertArgs(opts) {
       '-stroke', 'black',
       '-strokewidth', '1',
       '-pointsize', '20',
+      '-font', 'Times-Bold',
       '-annotate', '+5+5', opts.text
     );
   }
