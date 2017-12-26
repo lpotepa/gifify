@@ -153,8 +153,8 @@ function computeConvertArgs(opts) {
       '-fill', 'white',
       '-stroke', 'black',
       '-strokewidth', '1',
-      '-pointsize', '40',
-      '-annotate', '+20+20', opts.text
+      '-pointsize', '20',
+      '-annotate', '+5+5', opts.text
     );
   }
 
